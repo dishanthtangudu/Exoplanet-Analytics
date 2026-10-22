@@ -189,7 +189,7 @@ Examples include:
 - Displaying user-friendly messages when CRUD operations fail.
 - Using temporary files when writing updated CSV data.
 
-## 10. Team Contributions
+## 10. Team Contributions.
 
 The project is divided into four modules so each team member can develop and explain one part of the application.
 
