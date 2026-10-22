@@ -31,14 +31,13 @@ c1, c2 = st.columns(2)
 with c1:
     st.info("🪐 **Exoplanet Discoveries**")
     st.write(
-        "Explore exoplanet candidates, dispositions, "
+        "exoplanet candidates, dispositions, "
         "scores, orbital periods, and planet radius."
     )
 
     st.info("📊 **Exoplanet Characteristics**")
     st.write(
-        "Analyze Kepler time-series signals from "
-        "training and testing datasets."
+       "Features and Characterstics of Exoplanets"
     )
 
 with c2:
